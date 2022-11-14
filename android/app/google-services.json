@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772039404460",
+    "project_id": "chat-room-edcb6",
+    "storage_bucket": "chat-room-edcb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772039404460:android:fb0bc98669de225d51e809",
+        "android_client_info": {
+          "package_name": "com.example.chat_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772039404460-98mesf71pbhbtvn1ea0k73m4au4vccfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_room",
+            "certificate_hash": "0107010701070107010701070107010701070107"
+          }
+        },
+        {
+          "client_id": "772039404460-495kqvqsdhu87o9mquc3023lg354euc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwPQTfqK2v610ZNINtgdiF6owudHNXv3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772039404460-495kqvqsdhu87o9mquc3023lg354euc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
